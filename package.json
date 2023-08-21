@@ -1,0 +1,17 @@
+{
+  "name": "projetojest",
+  "version": "1.0.0",
+  "description": "Projeto jest para o curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Anne Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.3"
+  }
+}
